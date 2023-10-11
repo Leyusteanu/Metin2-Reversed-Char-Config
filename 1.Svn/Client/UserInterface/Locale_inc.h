@@ -1,0 +1,1 @@
+#define __BL_CHAR_CONFIG__
